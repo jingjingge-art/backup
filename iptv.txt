@@ -1276,6 +1276,7 @@ OneMicroSpace,https://cdn.ttvb.eu.org/bilibili/390508
 魅魔之恋,https://cdn.ttvb.eu.org/bilibili/1805598741
 鲁铎尔象征,https://cdn.ttvb.eu.org/bilibili/23244528
 •抖音「娱乐」,#genre#
+700,https://live.yang-1989.eu.org/douyin/MCS361643051
 CS2梅樱大王666,https://live.yang-1989.eu.org/douyin/136739657957
 Cc有筐花生🥜？,https://live.yang-1989.eu.org/douyin/757430167196
 GXG男装旗舰店,https://live.yang-1989.eu.org/douyin/71433089613
@@ -1308,10 +1309,12 @@ Noe🐹（英文版）,https://live.yang-1989.eu.org/douyin/21741211126
 我叫温言（1V4),https://live.yang-1989.eu.org/douyin/74655259130
 明栀明（东东电竞）,https://live.yang-1989.eu.org/douyin/442192637799
 星际争霸小帅,https://live.yang-1989.eu.org/douyin/776959647646
+是个枷锁,https://live.yang-1989.eu.org/douyin/jiasuo1128
 晕车ovo🥺,https://live.yang-1989.eu.org/douyin/37975326371
 杨某人啦（全国总冠军🏆）,https://live.yang-1989.eu.org/douyin/929603695199
 极光新闻,https://live.yang-1989.eu.org/douyin/jiguangxinwen
-楠楠🎤,https://live.yang-1989.eu.org/douyin/84138692390
+欢乐有氧运动,https://live.yang-1989.eu.org/douyin/41195956337
+江苏新闻,https://live.yang-1989.eu.org/douyin/jsbcnews
 江萧絮（21210海诺）,https://live.yang-1989.eu.org/douyin/jiangxiaoxu0622
 洛凡💞pubg,https://live.yang-1989.eu.org/douyin/12714584010
 浙有正能量,https://live.yang-1989.eu.org/douyin/sir000115
@@ -1326,9 +1329,10 @@ Noe🐹（英文版）,https://live.yang-1989.eu.org/douyin/21741211126
 董阳（偷家兰陵王）,https://live.yang-1989.eu.org/douyin/1739220820
 蒋一帆🐵,https://live.yang-1989.eu.org/douyin/173956876
 西安发布,https://live.yang-1989.eu.org/douyin/xianfabu029
-西西🌸,https://live.yang-1989.eu.org/douyin/25644869844
 豫见文化,https://live.yang-1989.eu.org/douyin/1041199203
 迷衫（2.1w李白）,https://live.yang-1989.eu.org/douyin/dymishan7
+郭少杰🕊️笑看人间,https://live.yang-1989.eu.org/douyin/JieGeMeng
+野马Guts,https://live.yang-1989.eu.org/douyin/Zic666
 铥铥-御龙在天,https://live.yang-1989.eu.org/douyin/747432029416
 阿娇⁵²²🎙️,https://live.yang-1989.eu.org/douyin/95282832159
 雪梨酱🧊🍐,https://live.yang-1989.eu.org/douyin/xuelijiang_06
@@ -1450,6 +1454,7 @@ LR1245,https://cdn.ttvb.eu.org/douyu/12534632
 贾贵队长真男神,https://cdn.ttvb.eu.org/douyu/299854
 轰轰仔,https://cdn.ttvb.eu.org/douyu/6925114
 •虎牙「娱乐」,#genre#
+4AMCRAZY112代,https://live.yang-1989.eu.org/huya/7911112
 7喜先生,https://live.yang-1989.eu.org/huya/11342421
 AH丶仇冬生,https://live.yang-1989.eu.org/huya/764447
 CX-娜娜,https://live.yang-1989.eu.org/huya/156286
@@ -1655,12 +1660,15 @@ barry观世界,https://cdn.ttvb.eu.org/huya/20985835
 ♡혜밍,https://live.yang-1989.eu.org/soop/dign1461
 ♥메리미유♥,https://live.yang-1989.eu.org/soop/daphnerin
 ♥쏘야♥,https://live.yang-1989.eu.org/soop/03apple
+겜순이녜,https://live.yang-1989.eu.org/soop/inhye0416
 금보미♥,https://live.yang-1989.eu.org/soop/soonie1
 꿀혜,https://live.yang-1989.eu.org/soop/coppag
 남순,https://live.yang-1989.eu.org/soop/wnnw
 댄동단장태우,https://live.yang-1989.eu.org/soop/gkstkd14
 두시앙,https://live.yang-1989.eu.org/soop/krkdrudwn77
+류안♥,https://live.yang-1989.eu.org/soop/navi04
 만소♡,https://live.yang-1989.eu.org/soop/dahye27
+문월:-),https://live.yang-1989.eu.org/soop/moonwol0614
 박우주,https://live.yang-1989.eu.org/soop/soclato
 빵지니♥,https://live.yang-1989.eu.org/soop/son4069
 사나이♥,https://live.yang-1989.eu.org/soop/sanaekcy
@@ -1695,6 +1703,8 @@ ASMR_Arale,https://live.yang-1989.eu.org/twitch/asmr_arale
 BobRoss,https://live.yang-1989.eu.org/twitch/Bobross
 ColawayTV,https://live.yang-1989.eu.org/twitch/colawaytv
 FloppyLottie,https://live.yang-1989.eu.org/twitch/FloppyLottie
+Jinnytty,https://live.yang-1989.eu.org/twitch/Jinnytty
+Jinnytty,https://live.yang-1989.eu.org/twitch/jinnytty
 KBJDanceTV,https://live.yang-1989.eu.org/twitch/kbjdancetv
 Mellooow_,https://live.yang-1989.eu.org/twitch/Mellooow_
 NonStopFashion,https://live.yang-1989.eu.org/twitch/nonstopfashion
@@ -1795,7 +1805,6 @@ LIGhtYgo,https://live.yang-1989.eu.org/bilibili/527206
 请支持诺希,https://live.yang-1989.eu.org/bilibili/1870881249
 雪糕cheese,https://live.yang-1989.eu.org/bilibili/27183290
 风行云,https://live.yang-1989.eu.org/bilibili/1829181560
-黄庭RVC,https://live.yang-1989.eu.org/bilibili/5633518
 NinjaJam,https://cdn.ttvb.eu.org/bilibili/4472878
 lovelive,https://cdn.ttvb.eu.org/bilibili/261955
 一米八的坤儿,https://cdn.ttvb.eu.org/bilibili/650
@@ -1819,7 +1828,6 @@ XYG.酷偕,https://live.yang-1989.eu.org/douyin/126980302263
 vx30,https://live.yang-1989.eu.org/douyin/543221183540
 七彩猫（国服王昭君）,https://live.yang-1989.eu.org/douyin/wzj767061037
 上将典韦,https://live.yang-1989.eu.org/douyin/38254122804
-不会捏蓝(东东电竞),https://live.yang-1989.eu.org/douyin/90492165361
 主播杨树,https://live.yang-1989.eu.org/douyin/zhuboyangshu
 传奇金光闪闪,https://live.yang-1989.eu.org/douyin/395018388633
 你老弟-梁海鹏,https://live.yang-1989.eu.org/douyin/673832157114
@@ -1918,6 +1926,7 @@ zzc啊哦额,https://live.yang-1989.eu.org/douyu/666743
 李好好吗吗,https://live.yang-1989.eu.org/douyu/6385489
 洞主丨歌神洞庭湖,https://live.yang-1989.eu.org/douyu/138243
 流星丶Meteor丶丶,https://live.yang-1989.eu.org/douyu/11969011
+爱丝艾芙,https://live.yang-1989.eu.org/douyu/12408207
 玩机器丶Machine,https://live.yang-1989.eu.org/douyu/6979222
 电棍,https://live.yang-1989.eu.org/douyu/12306
 神奇的维C,https://live.yang-1989.eu.org/douyu/9830066
@@ -1995,6 +2004,7 @@ huya丶寒星,https://live.yang-1989.eu.org/huya/172392
 杨齐家丶,https://live.yang-1989.eu.org/huya/60066
 校长,https://live.yang-1989.eu.org/huya/77357
 炉石春哥,https://live.yang-1989.eu.org/huya/312410
+狂魔哥解说,https://live.yang-1989.eu.org/huya/919191
 狂鸟丶小宇热游-90098,https://live.yang-1989.eu.org/huya/10098
 狂鸟丶楚河-90327,https://live.yang-1989.eu.org/huya/998
 甜崽心宝,https://live.yang-1989.eu.org/huya/16211522
@@ -2081,6 +2091,7 @@ PUMA官方旗舰店,https://live.yang-1989.eu.org/douyin/87524611523
 泉水叮咚粤讲故,https://live.yang-1989.eu.org/douyin/yuegushi
 海蒂的花园官方旗舰店,https://live.yang-1989.eu.org/douyin/hddhy20202
 看看新闻Knews,https://live.yang-1989.eu.org/douyin/KKnews
+第一财团,https://live.yang-1989.eu.org/douyin/269875672114
 西递,https://live.yang-1989.eu.org/douyin/xidi1047
 隔壁王教练教育,https://live.yang-1989.eu.org/douyin/wangjiaolian996
 PUMA官方旗舰店,https://cdn.ttvb.eu.org/douyin/87524611523
@@ -2183,6 +2194,7 @@ TopMedia_TopNews,https://cdn.ttvb.eu.org/twitch/topmedia_topnews
 airportambiance,https://cdn.ttvb.eu.org/twitch/airportambiance
 issaboveyou,https://cdn.ttvb.eu.org/twitch/issaboveyou
 •歪歪「其他」,#genre#
+御山玖玥,https://live.yang-1989.eu.org/yy/1382862318
 燃舞蹈-福星,https://live.yang-1989.eu.org/yy/22490906
 燃舞蹈-木木,https://cdn.ttvb.eu.org/yy/22490906
 •SOOP「其他」,#genre#
@@ -12388,41 +12400,3 @@ MMV-030.吴梦梦.日常性愛daily sex,https://t0.97img.com/a149/a.m3u8
 榨汁机摆动她的大屁股,https://player.huangguazyw.com/20230913/M9XxFxJ5/index.m3u8
 冉冉学姐.青春女友感体验,https://player.huangguazyw.com/20231013/aMXdwbj9/index.m3u8
 性感肉丝小姐太会玩,https://player.huangguazyw.com/20231013/tyDEk1cy/index.m3u8
-famelack (cn) [cn] [False],#genre#
-ABN China,https://mediaserver.abnvideos.com/streams/abnchina.m3u8
-Ando TV,https://play.kankanlive.com/live/1711956137852982.m3u8
-CGTN Arabic,https://dash3.antik.sk/live/test_cgtn_arb_tizen/playlist.m3u8
-CGTN Global Biz,https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8
-CGTN Spanish,https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8
-Chifeng Comprehensive News Chanel,https://play1-qk.nmtv.cn/live/1735546697341033.m3u8
-Discovering China,https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
-Harbin Comprehensive News Channel,https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594
-Harbin Movie Channel,https://stream.hrbtv.net/yspd/playlist.m3u8
-Hunan Economy Channel,https://p8.vzan.com/slowlive/415983998730568937/live.m3u8
-Hunan TV,https://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-Jiangsu Public & News Channel,https://jiangning-tv-playing-t.cm.jstv.com/jiangning-tv/jnxwzh.m3u8
-Jingmen Comprehensive News Channel,https://stream.jmtv.com.cn/xwzh/sd/live.m3u8?_upt=341f4b8e1791883036
-Lanzhou Comprehensive News Channel,https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8
-Lanzhou Culture & Tourism Channel,https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8
-Nei Monggol TV,https://play1-qk.nmtv.cn/live/1769652018126032.m3u8
-Siping TV,https://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
-Xinjiang TV 2,https://hls.quklive.com/live/play-sh-21.quklive.com/1777511615189085.m3u8?auth_key=2092871636-a39d8614688744d0b170b856b086ba80-0-33900446b83fa0b5befeb6bedbcd51a0
-Xinjiang TV 3,https://st-video.xjmty.com/fs/livedit/e55abfa37af26e19/8ce9971c2177b3dd.m3u8
-Xizang TV Tibetan,https://live.vtibet.cn/live/ZYWS20261016.stream.m3u8
-上虞1新闻综合,https://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
-上虞3新商都,https://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
-宿州公共,https://live.ahsz.tv/video/s10001-ggpd/index.m3u8
-宿州新闻综合,https://live.ahsz.tv/video/s10001-szzh/index.m3u8
-宿州科教,https://live.ahsz.tv/video/s10001-kxjy/index.m3u8
-福州广播电视台新闻综合频道 (FZTV-1),https://live.zohi.tv/video/s10001-fztv-1/index.m3u8
-福州广播电视台都市生活频道 (FZTV-3),https://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-福州电视台少儿频道 (FZTV-少儿),https://live.zohi.tv/video/s10001-fztv-4/index.m3u8
-famelack (cn) [cn] [True],#genre#
-Baicheng TV,https://stream2.jlntv.cn/baicheng1/sd/live.m3u8
-农安新闻综合,https://stream2.jlntv.cn/naxw/sd/live.m3u8
-前郭综合,https://stream2.jlntv.cn/qg/sd/live.m3u8
-吉林市新闻综合,https://stream2.jlntv.cn/jilin1/sd/live.m3u8
-四平新闻综合,https://stream2.jlntv.cn/sptv/sd/live.m3u8
-白山新闻综合,https://stream2.jlntv.cn/baishan1/sd/live.m3u8
-辽源新闻综合,https://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8
-集安综合,https://stream2.jlntv.cn/ja/sd/live.m3u8

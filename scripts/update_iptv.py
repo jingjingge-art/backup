@@ -20,7 +20,6 @@ SOURCES = (
     "https://raw.githubusercontent.com/xzqcsa/ysc/19af99ad759d61eb9692ee99f2e0440c11cf45a5/xzqzy/lib1/wyzb.txt",
     "https://raw.githubusercontent.com/jingjingge-art/youtube/refs/heads/main/%E5%85%A8%E7%90%83%E7%9B%B4%E6%92%AD%E7%94%B5%E8%A7%86%E7%9B%91%E6%8E%A7iptvCAM-12-%E0%B8%AB%E0%B8%B2%E0%B8%94%E0%B8%95%E0%B8%B2%E0%B9%81%E0%B8%AB%E0%B8%A7%E0%B8%99.txt",
     "https://raw.githubusercontent.com/wxnlq/drpy-node/c78d8c51745e10f66cb4a5001c4b956b0147cb84/json/%E4%BB%99%E6%B3%95%E9%98%81%5B%E7%91%9Ft%5D/%E5%8D%88%E5%A4%9C%E7%9B%B4%E6%92%AD/%E4%B8%AD%E6%97%A5%E5%9B%BD%E9%99%85.txt",
-    "https://raw.githubusercontent.com/DEvmIb/famelack-channels-m3u/refs/heads/main/m3u/cn.m3u",
 )
 OUTPUT = Path(__file__).resolve().parents[1] / "iptv.txt"
 GROUP_RE = re.compile(

@@ -1,0 +1,62 @@
+# ============================================================
+# Google 服务 hosts · 多线路握手测速汇总
+# 生成时间: 2026/11/12 15:07:42
+# 测试域名: 11 个
+# 延迟含义: TCP+TLS 握手耗时（多次采样取最小值），非 ICMP ping
+# 生效规则: 每个域名取最快前 3 条，同一域名多行仅首行生效，
+#           第 2 条起已注释保留，切换时把首行注释掉即可。
+# ============================================================
+
+# ---------- www.google.com   可用 3/8 ----------
+142.251.154.119  www.google.com
+#142.251.152.119 www.google.com            # 备选2 · 271.3 ms
+#142.251.153.119 www.google.com            # 备选3 · 274.5 ms
+
+# ---------- fonts.googleapis.com   可用 3/3 ----------
+64.233.187.95    fonts.googleapis.com
+#74.125.204.95   fonts.googleapis.com      # 备选2 · 244.3 ms
+#64.233.188.95   fonts.googleapis.com      # 备选3 · 309.5 ms
+
+# ---------- fonts.gstatic.com   可用 3/3 ----------
+142.250.198.163  fonts.gstatic.com
+#142.250.197.99  fonts.gstatic.com         # 备选2 · 383.0 ms
+#142.250.198.131 fonts.gstatic.com         # 备选3 · 485.9 ms
+
+# ---------- ajax.googleapis.com   可用 3/3 ----------
+142.250.197.138  ajax.googleapis.com
+#142.250.199.202 ajax.googleapis.com       # 备选2 · 667.1 ms
+#142.250.197.106 ajax.googleapis.com       # 备选3 · 861.6 ms
+
+# ---------- api.google.com   可用 3/18 ----------
+74.125.203.106   api.google.com
+#108.177.97.147  api.google.com            # 备选2 · 242.3 ms
+#74.125.23.106   api.google.com            # 备选3 · 245.7 ms
+
+# ---------- mail.google.com   可用 2/2 ----------
+142.250.197.133  mail.google.com
+#142.250.198.37  mail.google.com           # 备选2 · 318.6 ms
+
+# ---------- docs.google.com   可用 2/3 ----------
+142.250.198.174  docs.google.com
+#142.250.197.142 docs.google.com           # 备选2 · 521.0 ms
+
+# ---------- storage.googleapis.com   可用 3/21 ----------
+34.153.2.27      storage.googleapis.com
+#142.250.197.155 storage.googleapis.com    # 备选2 · 239.1 ms
+#104.154.124.27  storage.googleapis.com    # 备选3 · 241.7 ms
+
+# ---------- translate.googleapis.com   可用 3/3 ----------
+142.250.198.138  translate.googleapis.com
+#142.250.199.234 translate.googleapis.com  # 备选2 · 257.7 ms
+#142.250.197.74  translate.googleapis.com  # 备选3 · 494.8 ms
+
+# ---------- maps.gstatic.com   可用 3/3 ----------
+142.250.71.163   maps.gstatic.com
+#142.250.197.67  maps.gstatic.com          # 备选2 · 336.9 ms
+#142.250.198.131 maps.gstatic.com          # 备选3 · 485.9 ms
+
+# ---------- maps.google.com   可用 3/3 ----------
+142.250.199.206  maps.google.com
+#142.250.199.238 maps.google.com           # 备选2 · 261.0 ms
+#142.250.199.78  maps.google.com           # 备选3 · 465.5 ms
+
